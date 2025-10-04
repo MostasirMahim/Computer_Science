@@ -1,0 +1,74 @@
+# ===== OS-specific files =====
+.DS_Store
+Thumbs.db
+
+# ===== IDEs & editors =====
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.log
+
+# ===== Compiled binaries =====
+*.exe
+*.dll
+*.so
+*.dylib
+*.out
+*.obj
+*.o
+*.a
+
+# ===== Python =====
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg
+*.egg-info/
+dist/
+build/
+env/
+venv/
+ENV/
+
+# ===== Java =====
+*.class
+*.jar
+*.war
+*.ear
+*.iml
+target/
+
+# ===== C/C++ =====
+*.out
+*.o
+*.obj
+*.gch
+*.a
+*.so
+*.dll
+*.exe
+
+# ===== C# / .NET =====
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.mdb
+
+# ===== Other build systems =====
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# ===== Misc =====
+*.tmp
+*.swp
+*.bak
+*.old
+*.orig
