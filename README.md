@@ -1,4 +1,4 @@
-# CS E Repository
+# CSE Repository
 This repository contains all things related to Computer Science and Engineering in CSE.
 
 ## Table of Contents
